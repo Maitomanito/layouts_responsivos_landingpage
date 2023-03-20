@@ -1,3 +1,3 @@
-# Proyecto layouts resposiveos landingpages
+# Proyecto Apeperia
 
-Archivos iniciales del proyecto landingpages para A-predixaje del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
